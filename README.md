@@ -8,3 +8,7 @@ php artisan key:generate
 php artisan migrate
 # Admin Create
 php artisan db:seed --class=AdminSeeder
+
+# Admin User & Password
+# user: admin@softvence.com
+# pass: softvence2025
